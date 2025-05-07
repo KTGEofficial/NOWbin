@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "diacritic": "^0.0.2",
+    "discord.js": "^14.19.3",
+    "es": "^0.8.0",
+    "esm": "^3.2.25",
+    "express": "^5.1.0",
+    "franc": "^6.2.0",
+    "transliteration": "^2.3.5",
+    "unorm": "^1.6.0"
+  },
+  "devDependencies": {
+    "node": "^16.20.2"
+  },
+  "description": ""
+}
